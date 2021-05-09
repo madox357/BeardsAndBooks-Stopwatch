@@ -29,6 +29,6 @@ This is the stopwatch HTML:
       </button>
     </div>
   </div>
-  <script type="text/javascript" src="https://github.com/VyeFox/BeardsAndBooks-Stopwatch/edit/main/script.js"/>
+  <script type="text/javascript" src="https://github.com/VyeFox/BeardsAndBooks-Stopwatch/edit/main/script.js"></script>
 </div>
 ```
